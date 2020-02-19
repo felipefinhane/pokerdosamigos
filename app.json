@@ -1,12 +1,10 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "Poker dos Amigos",
+  "description": "App to control championship data",
   "keywords": [
-    "getting-started",
-    "go",
-    "sample",
-    "example"
+    "poker",
+    ""
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "website": "https://pokerdosamigos.herokuapp.com",
+  "repository": "http://github.com/felipefinhane/pokerdosamigos"
 }
