@@ -2,8 +2,7 @@
   "name": "Poker dos Amigos",
   "description": "App to control championship data",
   "keywords": [
-    "poker",
-    ""
+    "poker"
   ],
   "website": "https://pokerdosamigos.herokuapp.com",
   "repository": "http://github.com/felipefinhane/pokerdosamigos"
